@@ -17,7 +17,7 @@ git命令行
 
 9、删除本地分支，如：git branch -d dev
 
-10、删除本地的远程分支，如：git branch -r -d origin/dev 
+10、删除本地分支，如：git branch -r -d origin/dev 
 
 11、删除远程分支，如：git push origin --delete dev
 
