@@ -1,2 +1,2 @@
-# GitDemo
+# Git
 Git command line
