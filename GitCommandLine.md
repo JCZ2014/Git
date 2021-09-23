@@ -23,7 +23,7 @@ git命令行
 
 12、分支合并，如：dev-->master，先提交dev改动或增加文件，再git checkout master，接着git merge dev，最后git push origin master
 
-13、拉取远程指定分支，如：git clone -b develop http://gitlab.jumeitd.net/mei-ios/mei-ios.git
+13、拉取远程指定分支，如：git clone -b develop 远程仓库地址（如：https://github.com/仓库作者/仓库名称.git）
 
 14、列出tag，如：git tag
 
